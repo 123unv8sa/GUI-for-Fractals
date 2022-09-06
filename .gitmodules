@@ -1,0 +1,9 @@
+[submodule "src/Mandelbrot-Set"]
+	path = src/Mandelbrot-Set
+	url = https://github.com/itsliterallymonique/Mandelbrot-Set.git
+[submodule "src/Koch-Fractal-o_O"]
+	path = src/Koch-Fractal-o_O
+	url = https://github.com/itsliterallymonique/Koch-Fractal-o_O.git
+[submodule "src/Barnsley-Fern"]
+	path = src/Barnsley-Fern
+	url = https://github.com/itsliterallymonique/Barnsley-Fern
